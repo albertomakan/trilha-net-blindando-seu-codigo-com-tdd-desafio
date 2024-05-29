@@ -1,0 +1,15 @@
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.sourcelink.json
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Desenvolvimento\trilha-net-blindando-seu-codigo-com-tdd-desafio\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
